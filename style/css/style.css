@@ -1,0 +1,34 @@
+body{
+
+font-family: Vazir;
+text-align: right;
+direction: rtl;
+
+
+}
+.jumbotronHeading{
+
+font-weight: 300;
+
+
+}
+
+
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 0rem; 
+    background-color: #e9ecef;
+    border-radius: .3rem;
+}
+
+.jumbotron.container{
+
+max-width: 40rem;
+}
+
+.mynavbar{
+
+background-color:#37474f;
+
+}
